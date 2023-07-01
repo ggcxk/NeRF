@@ -7,7 +7,7 @@
 
 示例图片
 <p align="center">
-  <img src="resources/1.jpg" />
+  <img src="resources/1.jpg" height="800"/>
 </p>
 
 3D重建结果

@@ -5,3 +5,14 @@
 
 解压后所有图片放在 "\data\COLMAP_test\images\" 路径下   
 
+示例图片
+<p align="center">
+  <img src="resources/1.png" />
+</p>
+
+3D重建结果
+<p align="center">
+  <img src="resources/COLMAP_test_spiral_001000_rgb.gif" />
+</p>
+
+

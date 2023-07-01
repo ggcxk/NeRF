@@ -7,12 +7,12 @@
 
 示例图片
 <p align="center">
-  <img src="resources/1.jpg" height="800"/>
+  <img src="resources/1.jpg" height="500"/>
 </p>
 
 3D重建结果
 <p align="center">
-  <img src="resources/COLMAP_test_spiral_001000_rgb.gif" />
+  <img src="resources/COLMAP_test_spiral_001000_rgb.gif" height="500" />
 </p>
 
 
